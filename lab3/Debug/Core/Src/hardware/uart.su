@@ -1,0 +1,3 @@
+../Core/Src/hardware/uart.c:8:9:uartHardwareTransmitPolling	16	static
+../Core/Src/hardware/uart.c:12:9:uartHardwareReceivePolling	16	static
+../Core/Src/hardware/uart.c:16:6:uartHardwareDisableInterrupts	8	static

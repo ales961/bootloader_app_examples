@@ -1,0 +1,10 @@
+../Core/Src/usart.c:43:6:MX_USART6_UART_Init	8	static
+../Core/Src/usart.c:71:6:HAL_UART_MspInit	48	static
+../Core/Src/usart.c:104:6:HAL_UART_MspDeInit	16	static
+../Core/Src/usart.c:130:10:uartTransmit	24	static
+../Core/Src/usart.c:137:9:uartHasNext	8	static
+../Core/Src/usart.c:141:6:uartInit	8	static
+../Core/Src/usart.c:146:6:uartPolling	8	static
+../Core/Src/usart.c:151:10:uartReceive	24	static
+../Core/Src/usart.c:156:13:hardwareReceive	16	static
+../Core/Src/usart.c:167:13:hardwareTransmit	16	static

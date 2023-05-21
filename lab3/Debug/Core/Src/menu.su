@@ -1,0 +1,2 @@
+../Core/Src/menu.c:12:6:menuInit	24	static
+../Core/Src/menu.c:22:14:menuExecuteCommand	24	static

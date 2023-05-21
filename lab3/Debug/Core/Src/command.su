@@ -1,0 +1,5 @@
+../Core/Src/command.c:12:11:commandCreate	32	static
+../Core/Src/command.c:22:14:commandExecute	16	static
+../Core/Src/command.c:28:6:commandSetAction	16	static
+../Core/Src/command.c:34:14:commandGetName	16	static
+../Core/Src/command.c:40:15:commandGetAction	16	static
